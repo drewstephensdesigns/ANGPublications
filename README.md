@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h2 align="center">The URL is now deprecated as all endpoints have transitioned to Cloudflare:<a href= "https://afiexplorer.drewstephensdesigns.workers.dev/v2/"</a></h2>
+<h3 align="center">The URL is now deprecated as all endpoints have transitioned to Cloudflare:</h3>
 <h2 align="center">Air National Guard Publications (Unofficial)</h2>
 <p align="center">Side loaded Air National Guard publications for the 
   <a href="https://play.google.com/store/apps/details?id=io.github.drewstephenscoding.afiexplorer">AFI Explorer app</a>
